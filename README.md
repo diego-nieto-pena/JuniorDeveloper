@@ -17,8 +17,8 @@ Comprender los principios básicos de la programación y la lógica computaciona
 - Funciones
 
 ### 🎥 YouTube en español
-- [Curso de Lógica de Programación - Programación ATS](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu5lq3xQGAc5Dfg0rsTyJ)
-- [Curso Lógica de Programación desde cero - Hola Mundo](https://www.youtube.com/playlist?list=PLM-p96nOrGcUO7J0ryHFVJFvBTIu0I2wM)
+- [Curso de Programación ](https://www.youtube.com/watch?v=qxXcI56NfnE&t=269s&ab_channel=TodoCode)
+- [Curso de Programación desde cero](https://www.youtube.com/watch?v=oz9wPzx6-ew&ab_channel=ProgramandoenJAVA)
 
 ---
 
